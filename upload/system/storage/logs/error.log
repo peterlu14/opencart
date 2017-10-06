@@ -1,0 +1,157 @@
+2017-10-05 18:53:54 - PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:53:54 - PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=70504 in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:53:54 - PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:53:54 - PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:53:54 - PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:53:54 - PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=70478 in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:53:54 - PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=70477 in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:53:54 - PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:53:54 - PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:53:54 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:53:54 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:53:54 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:53:54 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:53:54 - PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:53:54 - PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=70479 in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:53:54 - PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:53:54 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:53:54 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:53:54 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:53:54 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:53:54 - PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:53:54 - PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=70480 in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:53:54 - PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:53:54 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:53:54 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:54:18 - PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:54:18 - PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=70477 in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:54:18 - PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:54:18 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:54:18 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:55:03 - PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:55:03 - PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=70480 in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:55:03 - PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:55:03 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:55:03 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:55:35 - PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:55:35 - PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=70477 in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:55:35 - PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:55:35 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:55:35 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:55:46 - PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:55:46 - PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=70478 in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:55:46 - PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:55:46 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:55:46 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:56:14 - PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:56:14 - PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=70502 in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:56:14 - PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:56:14 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:56:14 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:56:14 - PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:56:14 - PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=70478 in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:56:14 - PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:56:14 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:56:14 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:56:14 - PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:56:14 - PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=70503 in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:56:14 - PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:56:14 - PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=70477 in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:56:14 - PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:56:14 - PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:56:14 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:56:14 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:56:14 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:56:14 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:56:14 - PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:56:14 - PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=70480 in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:56:14 - PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:56:14 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:56:14 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:56:59 - PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:56:59 - PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=70478 in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:56:59 - PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:56:59 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:56:59 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:57:13 - PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:57:13 - PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=70504 in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:57:13 - PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:57:13 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:57:13 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:58:03 - PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:58:03 - PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=70503 in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:58:03 - PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:58:03 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:58:03 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:59:22 - PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:59:22 - PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=70478 in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:59:22 - PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 18:59:22 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 18:59:22 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 19:00:14 - PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:00:14 - PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=70480 in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:00:14 - PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:00:14 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 19:00:14 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 19:02:47 - PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:02:47 - PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=70503 in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:02:47 - PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:02:47 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 19:02:47 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 19:03:24 - PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:03:24 - PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=70478 in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:03:24 - PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:03:24 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 19:03:24 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 19:03:32 - PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:03:32 - PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=70477 in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:03:32 - PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:03:32 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 19:03:32 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 19:03:39 - PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:03:39 - PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=70478 in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:03:39 - PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:03:39 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 19:03:39 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 19:04:03 - PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:04:03 - PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=70478 in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:04:03 - PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:04:03 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 19:04:03 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 19:04:22 - PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:04:22 - PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=70478 in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:04:22 - PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:04:22 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 19:04:22 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 19:04:43 - PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:04:43 - PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=70478 in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:04:43 - PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:04:43 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 19:04:43 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 19:06:16 - PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:06:16 - PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=70478 in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:06:16 - PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:06:16 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 19:06:16 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 19:08:38 - PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:08:38 - PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=70478 in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:08:38 - PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:08:38 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 19:08:38 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 19:10:21 - PHP Warning:  mysqli::mysqli(): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:10:21 - PHP Warning:  mysqli::mysqli(): Error while reading greeting packet. PID=70480 in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:10:21 - PHP Warning:  mysqli::mysqli(): (HY000/2006): MySQL server has gone away in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:10:21 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 19:10:21 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 19:21:32 - PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:21:32 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 19:21:32 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 19:22:02 - PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:22:02 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 19:22:02 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 19:22:08 - PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:22:08 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 19:22:08 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 19:22:17 - PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 7
+2017-10-05 19:22:17 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
+2017-10-05 19:22:17 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Library/WebServer/Documents/TwOpencart/upload/system/library/db/mysqli.php on line 10
