@@ -1,0 +1,107 @@
+#outerContainer {
+	height:50px;
+}
+#topNewsContainer {
+  background-color:#999;
+  position:fixed;
+  width:100%;
+  height:50px;
+  top:0;
+  left:0;
+  z-index:100;
+  display: -webkit-flex;
+  display: flex;
+}
+#topNewsTextContainer{
+	-webkit-flex: 9;
+  -ms-flex: 9;
+  flex: 9;
+	margin:auto;
+}
+#topNewsDelContatiner{
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+	margin:auto;
+}
+#topNewsText {
+	width:500px;
+	margin: 0 auto;
+  color:#fff;
+  font-size:16px;
+}
+#topNewsButton {
+	margin-left:15px;
+	background-color: #0000A8;
+  border: none;
+  border-radius: 8px;
+  font-size:16px;
+	color: white;
+  text-align: center;
+  padding:5px 10px;
+}
+#topNewsButton:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#topNewsDel {
+  float:right;
+	width:50px;
+	height:50px;
+	background-color:#fff;
+	background: url(/Twopencart/upload/catalog/view/theme/default/image/cancel.svg) no-repeat;
+	background-size: 100% 100%;
+  border-width: 0;
+}
+#top {
+  background-color: #FFF;
+  border-width:0;
+}
+
+.container {
+  width:100%;
+  padding: 0 0;
+}
+
+.row {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+#content {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+#menu {
+  background-color:#fff;
+  background-image:none;
+  background-repeat:none;
+  border-color:#000;
+  border-radius:0;
+  border-width:0;
+  border-top-width:1px;
+  margin-bottom:0;
+}
+
+#menu #category {
+  color: #000;
+}
+
+#menu ul {
+  display: -webkit-flex;
+  display: flex;
+  float:none;
+}
+
+#menu ul li {
+  -webkit-flex: 1
+  -ms-flex: 1;
+  flex: 1;
+  text-align: center;
+}
+
+#menu .nav li a {
+  color: #000;
+	text-shadow:none;
+	padding: 15px 15px;
+}
